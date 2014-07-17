@@ -56,17 +56,21 @@ namespace :countries do
         country.min_latitude = country_bound_boxes[:min_lat]
         country.max_longitude = country_bound_boxes[:max_lon]
         country.max_latitude = country_bound_boxes[:max_lat]
-        countries_file.write({country_alpha2 => country.to_hash}.to_yaml)
 
-        updated_countries[country_alpha2] = true
+        updated_countries[country_alpha2] = country.to_hash
       end
-    end
 
-    CountriesData = YAML.load_file(File.join(File.dirname(__FILE__), 'lib', 'data', 'countries.yaml'))
-    CountriesData.each do |country_data|
-      unless updated_countries.has_key?(country_data[0])
-        puts "Country #{country_data[0]} not found on country boundary boxes dataset."
+      # Add missing countries from countries.yaml
+      CountriesData = YAML.load_file(File.join(File.dirname(__FILE__), 'lib', 'data', 'countries.yaml'))
+      CountriesData.each do |country_data|
+        unless updated_countries.has_key?(country_data[0])
+          puts "Country #{country_data[0]} not found on country boundary boxes dataset."
+          missing_country = Country.new(country_data[0])
+          updated_countries[country_data[0]] = missing_country.to_hash
+        end
       end
+
+      countries_file.write(updated_countries.to_yaml)
     end
   end
 end
