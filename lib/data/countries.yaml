@@ -29,13 +29,13 @@ AW:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: ARU
   un_locode: AW
   languages:
   - nl
   nationality: Aruban
-  eu_member: 
+  eu_member:
   min_longitude: '-70.066667'
   min_latitude: '12.416667'
   max_longitude: '-69.85'
@@ -74,13 +74,13 @@ AG:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: ANT
   un_locode: AG
   languages:
   - en
   nationality: Antiguan, Barbudan
-  eu_member: 
+  eu_member:
   min_longitude: '-62.333333'
   min_latitude: '16.916667'
   max_longitude: '-61.666667'
@@ -132,7 +132,7 @@ AE:
   languages:
   - ar
   nationality: Emirian
-  eu_member: 
+  eu_member:
   min_longitude: '45'
   min_latitude: '22.166667'
   max_longitude: '58'
@@ -152,7 +152,7 @@ AF:
     it: Afghanistan
     de: Afghanistan
     fr: Afganistán
-    es: 
+    es:
     ja: アフガニスタン
     nl: Afghanistan
     ru: Афганистан
@@ -170,7 +170,7 @@ AF:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: AFG
   un_locode: AF
   languages:
@@ -178,7 +178,7 @@ AF:
   - uz
   - tk
   nationality: Afghan
-  eu_member: 
+  eu_member:
   min_longitude: '60.566667'
   min_latitude: '29.383333'
   max_longitude: '74.8868713067'
@@ -218,13 +218,13 @@ DZ:
   - 8
   international_prefix: '00'
   national_prefix: '7'
-  address_format: 
+  address_format:
   ioc: ALG
   un_locode: DZ
   languages:
   - ar
   nationality: Algerian
-  eu_member: 
+  eu_member:
   min_longitude: '-8.666667'
   min_latitude: '19'
   max_longitude: '13'
@@ -264,14 +264,14 @@ AZ:
   - 9
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: AZE
   un_locode: AZ
   languages:
   - az
   - hy
   nationality: Azerbaijani
-  eu_member: 
+  eu_member:
   min_longitude: '44.876389'
   min_latitude: '38.416667'
   max_longitude: '50.858333'
@@ -293,7 +293,7 @@ AL:
     it: Albania
     de: Albanien
     fr: Albanie
-    es: 
+    es:
     ja: アルバニア
     nl: Albanië
     ru: Албания
@@ -312,13 +312,13 @@ AL:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ALB
   un_locode: AL
   languages:
   - sq
   nationality: Albanian
-  eu_member: 
+  eu_member:
   min_longitude: '19.266667'
   min_latitude: '39.65'
   max_longitude: '21.05'
@@ -340,7 +340,7 @@ AM:
     it: Armenia
     de: Armenien
     fr: Arménie
-    es: 
+    es:
     ja: アルメニア
     nl: Armenië
     ru: Армения
@@ -357,14 +357,14 @@ AM:
   - 8
   international_prefix: '00'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: ARM
   un_locode: AM
   languages:
   - hy
   - ru
   nationality: Armenian
-  eu_member: 
+  eu_member:
   min_longitude: '43.4425'
   min_latitude: '38.894167'
   max_longitude: '46.560556'
@@ -384,7 +384,7 @@ AD:
     it: Andorra
     de: Andorra
     fr: Andorre
-    es: 
+    es:
     ja: アンドラ
     nl: Andorra
     ru: Андорра
@@ -404,13 +404,13 @@ AD:
   - 9
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: AND
   un_locode: AD
   languages:
   - ca
   nationality: Andorran
-  eu_member: 
+  eu_member:
   min_longitude: '1.416667'
   min_latitude: '42.433333'
   max_longitude: '1.783333'
@@ -446,13 +446,13 @@ AO:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ANG
   un_locode: AO
   languages:
   - pt
   nationality: Angolan
-  eu_member: 
+  eu_member:
   min_longitude: '10'
   min_latitude: '-32'
   max_longitude: '23.983333'
@@ -474,7 +474,7 @@ AR:
     it: Argentina
     de: Argentinien
     fr: Argentine
-    es: 
+    es:
     ja: アルゼンチン
     nl: Argentinië
     ru: Аргентина
@@ -504,7 +504,7 @@ AR:
   - es
   - gn
   nationality: Argentinean
-  eu_member: 
+  eu_member:
   min_longitude: '-73.533333'
   min_latitude: '-58.116667'
   max_longitude: '-53.65'
@@ -552,7 +552,7 @@ AU:
   languages:
   - en
   nationality: Australian
-  eu_member: 
+  eu_member:
   min_longitude: '147.1'
   min_latitude: '-29.472222'
   max_longitude: '159.119444'
@@ -644,13 +644,13 @@ AI:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: AI
   languages:
   - en
   nationality: Anguillian
-  eu_member: 
+  eu_member:
   min_longitude: '-63.433333'
   min_latitude: '18.15'
   max_longitude: '-62.916667'
@@ -697,7 +697,7 @@ BH:
   languages:
   - ar
   nationality: Bahraini
-  eu_member: 
+  eu_member:
   min_longitude: '45'
   min_latitude: '25'
   max_longitude: '50.823333'
@@ -717,7 +717,7 @@ BB:
     it: Barbados
     de: Barbados
     fr: Barbade
-    es: 
+    es:
     ja: バルバドス
     nl: Barbados
     ru: Барбадос
@@ -733,13 +733,13 @@ BB:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: BAR
   un_locode: BB
   languages:
   - en
   nationality: Barbadian
-  eu_member: 
+  eu_member:
   min_longitude: '-59.65'
   min_latitude: '13.033333'
   max_longitude: '-59.416667'
@@ -774,14 +774,14 @@ BW:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: BOT
   un_locode: BW
   languages:
   - en
   - tn
   nationality: Motswana
-  eu_member: 
+  eu_member:
   min_longitude: '20'
   min_latitude: '-26.833333'
   max_longitude: '29.016667'
@@ -818,13 +818,13 @@ BM:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: BER
   un_locode: BM
   languages:
   - en
   nationality: Bermudian
-  eu_member: 
+  eu_member:
   min_longitude: '-64.882778'
   min_latitude: '32.246944'
   max_longitude: '-64.633333'
@@ -912,13 +912,13 @@ BS:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: BAH
   un_locode: BS
   languages:
   - en
   nationality: Bahamian
-  eu_member: 
+  eu_member:
   min_longitude: '-80.483333'
   min_latitude: '20'
   max_longitude: '-70'
@@ -938,7 +938,7 @@ BD:
     it: Bangladesh
     de: Bangladesch
     fr: Bangladesh
-    es: 
+    es:
     ja: バングラデシュ
     nl: Bangladesh
     ru: Бангладеш
@@ -954,13 +954,13 @@ BD:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: BAN
   un_locode: BD
   languages:
   - bn
   nationality: Bangladeshi
-  eu_member: 
+  eu_member:
   min_longitude: '84'
   min_latitude: '20.6'
   max_longitude: '92.683333'
@@ -996,14 +996,14 @@ BZ:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: BIZ
   un_locode: BZ
   languages:
   - en
   - es
   nationality: Belizean
-  eu_member: 
+  eu_member:
   min_longitude: '-89.216944'
   min_latitude: '15.9'
   max_longitude: '-87.483333'
@@ -1054,7 +1054,7 @@ BA:
   - hr
   - sr
   nationality: Bosnian, Herzegovinian
-  eu_member: 
+  eu_member:
   min_longitude: '15.747222'
   min_latitude: '42.558056'
   max_longitude: '19.618333'
@@ -1075,7 +1075,7 @@ BO:
     it: Bolivia
     de: Bolivien
     fr: Bolivie
-    es: 
+    es:
     ja: ボリビア多民族国
     nl: Bolivia
     ru: Боливия
@@ -1091,7 +1091,7 @@ BO:
   - 8
   international_prefix: '0010'
   national_prefix: '010'
-  address_format: 
+  address_format:
   ioc: BOL
   un_locode: BO
   languages:
@@ -1099,7 +1099,7 @@ BO:
   - ay
   - qu
   nationality: Bolivian
-  eu_member: 
+  eu_member:
   min_longitude: '-69.6'
   min_latitude: '-22.883333'
   max_longitude: '-57.566667'
@@ -1135,13 +1135,13 @@ MM:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: MYA
   un_locode: MM
   languages:
   - my
   nationality: Myanmarian
-  eu_member: 
+  eu_member:
   min_longitude: '92.190833'
   min_latitude: '6'
   max_longitude: '102'
@@ -1161,7 +1161,7 @@ BJ:
     it: Benin
     de: Benin
     fr: Bénin
-    es: 
+    es:
     ja: ベナン
     nl: Benin
     ru: Бенин
@@ -1177,13 +1177,13 @@ BJ:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: BEN
   un_locode: BJ
   languages:
   - fr
   nationality: Beninese
-  eu_member: 
+  eu_member:
   min_longitude: '-4'
   min_latitude: '6.233333'
   max_longitude: '3.816667'
@@ -1222,14 +1222,14 @@ BY:
   - 9
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: BLR
   un_locode: BY
   languages:
   - be
   - ru
   nationality: Belarusian
-  eu_member: 
+  eu_member:
   min_longitude: '22.55'
   min_latitude: '50.716667'
   max_longitude: '32.708056'
@@ -1268,13 +1268,13 @@ SB:
   - 5
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SOL
   un_locode: SB
   languages:
   - en
   nationality: Solomon Islander
-  eu_member: 
+  eu_member:
   min_longitude: '155.516667'
   min_latitude: '-12.883333'
   max_longitude: '170.2'
@@ -1324,7 +1324,7 @@ BR:
   languages:
   - pt
   nationality: Brazilian
-  eu_member: 
+  eu_member:
   min_longitude: '-73.75'
   min_latitude: '-33.733333'
   max_longitude: '-28.85'
@@ -1413,13 +1413,13 @@ BT:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: BHU
   un_locode: BT
   languages:
   - dz
   nationality: Bhutanese
-  eu_member: 
+  eu_member:
   min_longitude: '80'
   min_latitude: '26.716667'
   max_longitude: '92.033333'
@@ -1441,7 +1441,7 @@ BG:
     it: Bulgaria
     de: Bulgarien
     fr: Bulgarie
-    es: 
+    es:
     ja: ブルガリア
     nl: Bulgarije
     ru: Болгария
@@ -1504,12 +1504,12 @@ BV:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages: []
   nationality: ''
-  eu_member: 
+  eu_member:
   min_longitude: '3.285278'
   min_latitude: '-54.452778'
   max_longitude: '3.433889'
@@ -1544,13 +1544,13 @@ BN:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: BRU
   un_locode: BN
   languages:
   - ms
   nationality: Bruneian
-  eu_member: 
+  eu_member:
   min_longitude: '110'
   min_latitude: '-2'
   max_longitude: '120'
@@ -1585,14 +1585,14 @@ BI:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: BDI
   un_locode: BI
   languages:
   - fr
   - rn
   nationality: Burundian
-  eu_member: 
+  eu_member:
   min_longitude: '29.023889'
   min_latitude: '-4.443333'
   max_longitude: '30.831389'
@@ -1641,7 +1641,7 @@ CA:
   - en
   - fr
   nationality: Canadian
-  eu_member: 
+  eu_member:
   min_longitude: '-141.666667'
   min_latitude: '40'
   max_longitude: '-52.666667'
@@ -1680,13 +1680,13 @@ KH:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: CAM
   un_locode: KH
   languages:
   - km
   nationality: Cambodian
-  eu_member: 
+  eu_member:
   min_longitude: '102.358333'
   min_latitude: '9.916667'
   max_longitude: '107.566667'
@@ -1725,14 +1725,14 @@ TD:
   - 7
   international_prefix: '15'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CHA
   un_locode: TD
   languages:
   - ar
   - fr
   nationality: Chadian
-  eu_member: 
+  eu_member:
   min_longitude: '2'
   min_latitude: '7.5'
   max_longitude: '24'
@@ -1768,14 +1768,14 @@ LK:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: SRI
   un_locode: LK
   languages:
   - si
   - ta
   nationality: Sri Lankan
-  eu_member: 
+  eu_member:
   min_longitude: '79.516667'
   min_latitude: '5.916667'
   max_longitude: '81.866667'
@@ -1812,14 +1812,14 @@ CG:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CGO
   un_locode: CG
   languages:
   - fr
   - ln
   nationality: Congolese
-  eu_member: 
+  eu_member:
   min_longitude: '11.166667'
   min_latitude: '-4.995556'
   max_longitude: '20'
@@ -1857,7 +1857,7 @@ CD:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: COD
   un_locode: CD
   languages:
@@ -1867,7 +1867,7 @@ CD:
   - sw
   - lu
   nationality: Congolese
-  eu_member: 
+  eu_member:
   min_longitude: '12.266667'
   min_latitude: '-13.466667'
   max_longitude: '31.233333'
@@ -1918,7 +1918,7 @@ CN:
   languages:
   - zh
   nationality: Chinese
-  eu_member: 
+  eu_member:
   min_longitude: '106.7'
   min_latitude: '6.183333'
   max_longitude: '117.816667'
@@ -1956,13 +1956,13 @@ CL:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: CHI
   un_locode: CL
   languages:
   - es
   nationality: Chilean
-  eu_member: 
+  eu_member:
   min_longitude: '-109.466667'
   min_latitude: '-56.533333'
   max_longitude: '-66.433333'
@@ -2001,13 +2001,13 @@ KY:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: CAY
   un_locode: KY
   languages:
   - en
   nationality: Caymanian
-  eu_member: 
+  eu_member:
   min_longitude: '-81.416667'
   min_latitude: '19.25'
   max_longitude: '-79.716667'
@@ -2044,13 +2044,13 @@ CC:
   - 9
   international_prefix: '0011'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: CC
   languages:
   - en
   nationality: Cocos Islander
-  eu_member: 
+  eu_member:
   min_longitude: '96.816667'
   min_latitude: '-12.204167'
   max_longitude: '96.918056'
@@ -2090,14 +2090,14 @@ CM:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CMR
   un_locode: CM
   languages:
   - en
   - fr
   nationality: Cameroonian
-  eu_member: 
+  eu_member:
   min_longitude: '8.483333'
   min_latitude: '2.016667'
   max_longitude: '16'
@@ -2135,14 +2135,14 @@ KM:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: COM
   un_locode: KM
   languages:
   - ar
   - fr
   nationality: Comoran
-  eu_member: 
+  eu_member:
   min_longitude: '43.226111'
   min_latitude: '-13'
   max_longitude: '45.316667'
@@ -2181,13 +2181,13 @@ CO:
   - 10
   international_prefix: '005'
   national_prefix: '05'
-  address_format: 
+  address_format:
   ioc: COL
   un_locode: CO
   languages:
   - es
   nationality: Colombian
-  eu_member: 
+  eu_member:
   min_longitude: '-81.85'
   min_latitude: '-4.214722'
   max_longitude: '-66.854722'
@@ -2222,13 +2222,13 @@ CR:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CRC
   un_locode: CR
   languages:
   - es
   nationality: Costa Rican
-  eu_member: 
+  eu_member:
   min_longitude: '-87.1'
   min_latitude: '5.5'
   max_longitude: '-82.05'
@@ -2267,14 +2267,14 @@ CF:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CAF
   un_locode: CF
   languages:
   - fr
   - sg
   nationality: Central African
-  eu_member: 
+  eu_member:
   min_longitude: '14.533333'
   min_latitude: '2.433333'
   max_longitude: '27.216667'
@@ -2310,13 +2310,13 @@ CU:
   - 8
   international_prefix: '119'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: CUB
   un_locode: CU
   languages:
   - es
   nationality: Cuban
-  eu_member: 
+  eu_member:
   min_longitude: '-84.950833'
   min_latitude: '19.828056'
   max_longitude: '-74.135'
@@ -2355,13 +2355,13 @@ CV:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CPV
   un_locode: CV
   languages:
   - pt
   nationality: Cape Verdian
-  eu_member: 
+  eu_member:
   min_longitude: '-25.366667'
   min_latitude: '14.8'
   max_longitude: '-22.666667'
@@ -2400,13 +2400,13 @@ CK:
   - 5
   international_prefix: '00'
   national_prefix: '00'
-  address_format: 
+  address_format:
   ioc: COK
   un_locode: CK
   languages:
   - en
   nationality: Cook Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-171.783333'
   min_latitude: '-21.953056'
   max_longitude: '-157.3375'
@@ -2444,7 +2444,7 @@ CY:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: CYP
   un_locode: CY
   languages:
@@ -2539,14 +2539,14 @@ DJ:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: DJI
   un_locode: DJ
   languages:
   - ar
   - fr
   nationality: Djibouti
-  eu_member: 
+  eu_member:
   min_longitude: '41'
   min_latitude: '10.9825'
   max_longitude: '43.451944'
@@ -2582,13 +2582,13 @@ DM:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: DMA
   un_locode: DM
   languages:
   - en
   nationality: Dominican
-  eu_member: 
+  eu_member:
   min_longitude: '-61.483333'
   min_latitude: '15.2'
   max_longitude: '-61.25'
@@ -2627,13 +2627,13 @@ DO:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: DOM
   un_locode: DO
   languages:
   - es
   nationality: Dominican
-  eu_member: 
+  eu_member:
   min_longitude: '-71.966667'
   min_latitude: '17.473056'
   max_longitude: '-68.316667'
@@ -2671,13 +2671,13 @@ EC:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ECU
   un_locode: EC
   languages:
   - es
   nationality: Ecuadorean
-  eu_member: 
+  eu_member:
   min_longitude: '-92'
   min_latitude: '-4.95'
   max_longitude: '-75.216667'
@@ -2727,7 +2727,7 @@ EG:
   languages:
   - ar
   nationality: Egyptian
-  eu_member: 
+  eu_member:
   min_longitude: '24.7'
   min_latitude: '20.383333'
   max_longitude: '36.333333'
@@ -2817,14 +2817,14 @@ GQ:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GEQ
   un_locode: GQ
   languages:
   - es
   - fr
   nationality: Equatorial Guinean
-  eu_member: 
+  eu_member:
   min_longitude: '5.05'
   min_latitude: '-1.483333'
   max_longitude: '11.4'
@@ -2862,7 +2862,7 @@ EE:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: EST
   un_locode: EE
   languages:
@@ -2905,7 +2905,7 @@ ER:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ERI
   un_locode: ER
   languages:
@@ -2913,7 +2913,7 @@ ER:
   - ar
   - ti
   nationality: Eritrean
-  eu_member: 
+  eu_member:
   min_longitude: '36.483333'
   min_latitude: '12.383333'
   max_longitude: '43.114722'
@@ -2949,13 +2949,13 @@ SV:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: ESA
   un_locode: SV
   languages:
   - es
   nationality: Salvadoran
-  eu_member: 
+  eu_member:
   min_longitude: '-90.116389'
   min_latitude: '13.158611'
   max_longitude: '-87.657222'
@@ -2995,13 +2995,13 @@ ET:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ETH
   un_locode: ET
   languages:
   - am
   nationality: Ethiopian
-  eu_member: 
+  eu_member:
   min_longitude: '33.033333'
   min_latitude: '3.433333'
   max_longitude: '47.45'
@@ -3089,13 +3089,13 @@ GF:
   - 10
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: GF
   languages:
   - fr
-  nationality: 
-  eu_member: 
+  nationality:
+  eu_member:
   min_longitude: '-60'
   min_latitude: '2.166667'
   max_longitude: '-51.65'
@@ -3140,7 +3140,7 @@ FI:
     {{postalcode}} {{city}}
     {{country}}
   ioc: FIN
-  un_locode: 
+  un_locode:
   languages:
   - fi
   - sv
@@ -3183,7 +3183,7 @@ FJ:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: FIJ
   un_locode: FJ
   languages:
@@ -3192,7 +3192,7 @@ FJ:
   - hi
   - ur
   nationality: Fijian
-  eu_member: 
+  eu_member:
   min_longitude: '180'
   min_latitude: '-21.016667'
   max_longitude: '-179.983333'
@@ -3231,13 +3231,13 @@ FK:
   - 5
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: FK
   languages:
   - en
   nationality: Falkland Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-61.433333'
   min_latitude: '-52.966667'
   max_longitude: '-57.666667'
@@ -3275,13 +3275,13 @@ FM:
   - 7
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: FSM
   un_locode: FM
   languages:
   - en
   nationality: Micronesian
-  eu_member: 
+  eu_member:
   min_longitude: '137.425'
   min_latitude: '1.026389'
   max_longitude: '163.034444'
@@ -3320,13 +3320,13 @@ FO:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: FRO
   un_locode: FO
   languages:
   - fo
   nationality: Faroese
-  eu_member: 
+  eu_member:
   min_longitude: '-7.8'
   min_latitude: '61.333333'
   max_longitude: '-6.25'
@@ -3365,13 +3365,13 @@ PF:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: PF
   languages:
   - fr
   nationality: French Polynesian
-  eu_member: 
+  eu_member:
   min_longitude: '180'
   min_latitude: '-27.916667'
   max_longitude: '-179.8'
@@ -3408,13 +3408,13 @@ TF:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - fr
   nationality: French
-  eu_member: 
+  eu_member:
   min_longitude: '50.233333'
   min_latitude: '-50.016667'
   max_longitude: '77.6'
@@ -3449,13 +3449,13 @@ GM:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GAM
   un_locode: GM
   languages:
   - en
   nationality: Gambian
-  eu_member: 
+  eu_member:
   min_longitude: '-16.816944'
   min_latitude: '7'
   max_longitude: '-4'
@@ -3494,13 +3494,13 @@ GA:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GAB
   un_locode: GA
   languages:
   - fr
   nationality: Gabonese
-  eu_member: 
+  eu_member:
   min_longitude: '8.7'
   min_latitude: '-3.9'
   max_longitude: '14.483333'
@@ -3538,13 +3538,13 @@ GE:
   - 9
   international_prefix: '810'
   national_prefix: 8*
-  address_format: 
+  address_format:
   ioc: GEO
   un_locode: GE
   languages:
   - ka
   nationality: Georgian
-  eu_member: 
+  eu_member:
   min_longitude: '40.013056'
   min_latitude: '41.15'
   max_longitude: '46.635556'
@@ -3582,13 +3582,13 @@ GH:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GHA
   un_locode: GH
   languages:
   - en
   nationality: Ghanaian
-  eu_member: 
+  eu_member:
   min_longitude: '-4'
   min_latitude: '4.733333'
   max_longitude: '1.192778'
@@ -3623,13 +3623,13 @@ GI:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: GI
   languages:
   - en
   nationality: Gibraltar
-  eu_member: 
+  eu_member:
   min_longitude: '-5.35'
   min_latitude: '36.1'
   max_longitude: '-5.333333'
@@ -3664,13 +3664,13 @@ GD:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: GRN
   un_locode: GD
   languages:
   - en
   nationality: Grenadian
-  eu_member: 
+  eu_member:
   min_longitude: '-61.8'
   min_latitude: '11.983333'
   max_longitude: '-61.25'
@@ -3707,14 +3707,14 @@ GG:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - en
   - fr
   nationality: Channel Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-2.7'
   min_latitude: '49.401111'
   max_longitude: '-2.158056'
@@ -3757,12 +3757,12 @@ GL:
     {{street}}
     {{postalcode}} {{city}}
     {{country}}
-  ioc: 
+  ioc:
   un_locode: GL
   languages:
   - kl
   nationality: Greenlandic
-  eu_member: 
+  eu_member:
   min_longitude: '-73.05'
   min_latitude: '51.7'
   max_longitude: '-12.133333'
@@ -3856,13 +3856,13 @@ GP:
   - 10
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: GP
   languages:
   - fr
   nationality: Guadeloupian
-  eu_member: 
+  eu_member:
   min_longitude: '-63.15'
   min_latitude: '15'
   max_longitude: '-61'
@@ -3946,13 +3946,13 @@ GT:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GUA
   un_locode: GT
   languages:
   - es
   nationality: Guatemalan
-  eu_member: 
+  eu_member:
   min_longitude: '-92.583333'
   min_latitude: '13.751111'
   max_longitude: '-87.05'
@@ -3989,14 +3989,14 @@ GN:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GUI
   un_locode: GN
   languages:
   - fr
   - ff
   nationality: Guinean
-  eu_member: 
+  eu_member:
   min_longitude: '-15.366667'
   min_latitude: '7'
   max_longitude: '-4'
@@ -4032,13 +4032,13 @@ GY:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GUY
   un_locode: GY
   languages:
   - en
   nationality: Guyanese
-  eu_member: 
+  eu_member:
   min_longitude: '-61.233333'
   min_latitude: '1.316667'
   max_longitude: '-56'
@@ -4074,14 +4074,14 @@ HT:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: HAI
   un_locode: HT
   languages:
   - fr
   - ht
   nationality: Haitian
-  eu_member: 
+  eu_member:
   min_longitude: '-74.483333'
   min_latitude: '18.016667'
   max_longitude: '-71.633333'
@@ -4128,7 +4128,7 @@ HK:
   - en
   - zh
   nationality: Chinese
-  eu_member: 
+  eu_member:
   min_longitude: '113.833333'
   min_latitude: '22.15'
   max_longitude: '114.433333'
@@ -4163,13 +4163,13 @@ HM:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: HM
   languages:
   - en
   nationality: Heard and McDonald Islander
-  eu_member: 
+  eu_member:
   min_longitude: '72.566667'
   min_latitude: '-53.2'
   max_longitude: '73.85'
@@ -4205,13 +4205,13 @@ HN:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: HON
   un_locode: HN
   languages:
   - es
   nationality: Honduran
-  eu_member: 
+  eu_member:
   min_longitude: '-89.333333'
   min_latitude: '13.016667'
   max_longitude: '-82.5'
@@ -4362,7 +4362,7 @@ IS:
   languages:
   - is
   nationality: Icelander
-  eu_member: 
+  eu_member:
   min_longitude: '-24.533333'
   min_latitude: '63.3'
   max_longitude: '-13.2'
@@ -4414,7 +4414,7 @@ ID:
   languages:
   - id
   nationality: Indonesian
-  eu_member: 
+  eu_member:
   min_longitude: '94.970278'
   min_latitude: '-11'
   max_longitude: '141.016667'
@@ -4450,14 +4450,14 @@ IM:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - en
   - gv
   nationality: Manx
-  eu_member: 
+  eu_member:
   min_longitude: '-4.833333'
   min_latitude: '54.033333'
   max_longitude: '-4.316667'
@@ -4507,7 +4507,7 @@ IN:
   - hi
   - en
   nationality: Indian
-  eu_member: 
+  eu_member:
   min_longitude: '67.016667'
   min_latitude: '6.755556'
   max_longitude: '97.35'
@@ -4542,13 +4542,13 @@ IO:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: IO
   languages:
   - en
   nationality: Indian
-  eu_member: 
+  eu_member:
   min_longitude: '71.265278'
   min_latitude: '-7.35'
   max_longitude: '72.483333'
@@ -4583,13 +4583,13 @@ IR:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: IRI
   un_locode: IR
   languages:
   - fa
   nationality: Iranian
-  eu_member: 
+  eu_member:
   min_longitude: '27.4455'
   min_latitude: '25.05'
   max_longitude: '62'
@@ -4639,7 +4639,7 @@ IL:
   - he
   - ar
   nationality: Israeli
-  eu_member: 
+  eu_member:
   min_longitude: '34.283333'
   min_latitude: '29.516667'
   max_longitude: '35.666667'
@@ -4726,13 +4726,13 @@ CI:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: CIV
   un_locode: CI
   languages:
   - fr
   nationality: Ivorian
-  eu_member: 
+  eu_member:
   min_longitude: '-8.538889'
   min_latitude: '4.35'
   max_longitude: '-2.566667'
@@ -4771,13 +4771,13 @@ IQ:
   - 10
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: IRQ
   un_locode: IQ
   languages:
   - ar
   nationality: Iraqi
-  eu_member: 
+  eu_member:
   min_longitude: '38.800871'
   min_latitude: '28.866667'
   max_longitude: '48.833333'
@@ -4826,7 +4826,7 @@ JP:
   languages:
   - ja
   nationality: Japanese
-  eu_member: 
+  eu_member:
   min_longitude: '122.933333'
   min_latitude: '20.416667'
   max_longitude: '154'
@@ -4859,14 +4859,14 @@ JE:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - en
   - fr
   nationality: Channel Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-2.253889'
   min_latitude: '49.112778'
   max_longitude: '-1.927778'
@@ -4903,13 +4903,13 @@ JM:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: JAM
   un_locode: JM
   languages:
   - en
   nationality: Jamaican
-  eu_member: 
+  eu_member:
   min_longitude: '-78.366667'
   min_latitude: '17'
   max_longitude: '-70'
@@ -4948,13 +4948,13 @@ SJ:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: SJ
   languages:
   - 'no'
   nationality: Norwegian
-  eu_member: 
+  eu_member:
   min_longitude: '10.5'
   min_latitude: '74.35'
   max_longitude: '32.583333'
@@ -5005,7 +5005,7 @@ JO:
   languages:
   - ar
   nationality: Jordanian
-  eu_member: 
+  eu_member:
   min_longitude: '34.9875'
   min_latitude: '29'
   max_longitude: '38.883333'
@@ -5041,14 +5041,14 @@ KE:
   - 9
   international_prefix: '000'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: KEN
   un_locode: KE
   languages:
   - en
   - sw
   nationality: Kenyan
-  eu_member: 
+  eu_member:
   min_longitude: '27.433333'
   min_latitude: '-4.716667'
   max_longitude: '41.8583834826'
@@ -5087,14 +5087,14 @@ KG:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: KGZ
   un_locode: KG
   languages:
   - ky
   - ru
   nationality: Kirghiz
-  eu_member: 
+  eu_member:
   min_longitude: '69.333333'
   min_latitude: '39.25'
   max_longitude: '80.115833'
@@ -5135,13 +5135,13 @@ KP:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: PRK
   un_locode: KP
   languages:
   - ko
   nationality: North Korean
-  eu_member: 
+  eu_member:
   min_longitude: '124.1875'
   min_latitude: '37.6775'
   max_longitude: '130.672222'
@@ -5176,13 +5176,13 @@ KI:
   - 5
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: KIR
   un_locode: KI
   languages:
   - en
   nationality: I-Kiribati
-  eu_member: 
+  eu_member:
   min_longitude: '179.716667'
   min_latitude: '-10.3'
   max_longitude: '-174.533333'
@@ -5234,7 +5234,7 @@ KR:
   languages:
   - ko
   nationality: South Korean
-  eu_member: 
+  eu_member:
   min_longitude: '124.612222'
   min_latitude: '33.1175'
   max_longitude: '131.866667'
@@ -5269,15 +5269,15 @@ CX:
   national_number_lengths: []
   international_prefix: '0011'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: CX
   languages:
   - en
   - zh
   - ms
   nationality: Christmas Island
-  eu_member: 
+  eu_member:
   min_longitude: '105.566667'
   min_latitude: '-10.566667'
   max_longitude: '105.75'
@@ -5326,7 +5326,7 @@ KW:
   languages:
   - ar
   nationality: Kuwaiti
-  eu_member: 
+  eu_member:
   min_longitude: '45'
   min_latitude: '25'
   max_longitude: '49.410556'
@@ -5365,14 +5365,14 @@ KZ:
   - 10
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: KAZ
   un_locode: KZ
   languages:
   - kk
   - ru
   nationality: Kazakhstani
-  eu_member: 
+  eu_member:
   min_longitude: '46.589722'
   min_latitude: '40.416667'
   max_longitude: '90'
@@ -5408,13 +5408,13 @@ LA:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: LAO
   un_locode: LA
   languages:
   - lo
   nationality: Laotian
-  eu_member: 
+  eu_member:
   min_longitude: '100.095833'
   min_latitude: '13.933333'
   max_longitude: '107.633333'
@@ -5464,7 +5464,7 @@ LB:
   - ar
   - fr
   nationality: Lebanese
-  eu_member: 
+  eu_member:
   min_longitude: '35.103611'
   min_latitude: '33.078333'
   max_longitude: '36.592778'
@@ -5503,7 +5503,7 @@ LV:
   - 8
   international_prefix: '00'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: LAT
   un_locode: LV
   languages:
@@ -5548,7 +5548,7 @@ LT:
   - 8
   international_prefix: '00'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: LTU
   un_locode: LT
   languages:
@@ -5591,13 +5591,13 @@ LR:
   - 8
   international_prefix: '00'
   national_prefix: '22'
-  address_format: 
+  address_format:
   ioc: LBR
   un_locode: LR
   languages:
   - en
   nationality: Liberian
-  eu_member: 
+  eu_member:
   min_longitude: '-11.472222'
   min_latitude: '4.328333'
   max_longitude: '-4'
@@ -5682,13 +5682,13 @@ LI:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: LIE
   un_locode: LI
   languages:
   - de
   nationality: Liechtensteiner
-  eu_member: 
+  eu_member:
   min_longitude: '9.5'
   min_latitude: '47.05'
   max_longitude: '9.75'
@@ -5723,14 +5723,14 @@ LS:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: LES
   un_locode: LS
   languages:
   - en
   - st
   nationality: Mosotho
-  eu_member: 
+  eu_member:
   min_longitude: '24'
   min_latitude: '-30.666667'
   max_longitude: '29.316667'
@@ -5820,13 +5820,13 @@ LY:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: LBA
   un_locode: LY
   languages:
   - ar
   nationality: Libyan
-  eu_member: 
+  eu_member:
   min_longitude: '5'
   min_latitude: '20.8'
   max_longitude: '25.5'
@@ -5863,14 +5863,14 @@ MG:
   - 9
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: MAD
   un_locode: MG
   languages:
   - fr
   - mg
   nationality: Malagasy
-  eu_member: 
+  eu_member:
   min_longitude: '43.183333'
   min_latitude: '-25.6'
   max_longitude: '50.483333'
@@ -5906,13 +5906,13 @@ MQ:
   - 10
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: MQ
   languages:
   - fr
   nationality: French
-  eu_member: 
+  eu_member:
   min_longitude: '-61.966667'
   min_latitude: '14.383333'
   max_longitude: '-60.816667'
@@ -5947,14 +5947,14 @@ MO:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: MO
   languages:
   - zh
   - pt
   nationality: Chinese
-  eu_member: 
+  eu_member:
   min_longitude: '113.531389'
   min_latitude: '22.1125'
   max_longitude: '113.592222'
@@ -5994,13 +5994,13 @@ MD:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MDA
   un_locode: MD
   languages:
   - ro
   nationality: Moldovan
-  eu_member: 
+  eu_member:
   min_longitude: '26.672222'
   min_latitude: '45.481667'
   max_longitude: '30.096111'
@@ -6035,13 +6035,13 @@ YT:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: YT
   languages:
   - fr
   nationality: French
-  eu_member: 
+  eu_member:
   min_longitude: '45.024444'
   min_latitude: '-12.993889'
   max_longitude: '45.288611'
@@ -6082,13 +6082,13 @@ MN:
   - 10
   international_prefix: '001'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MGL
   un_locode: MN
   languages:
   - mn
   nationality: Mongolian
-  eu_member: 
+  eu_member:
   min_longitude: '87.783333'
   min_latitude: '41.55'
   max_longitude: '119.916667'
@@ -6123,13 +6123,13 @@ MS:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: MS
   languages:
   - en
   nationality: Montserratian
-  eu_member: 
+  eu_member:
   min_longitude: '-62.233333'
   min_latitude: '16.666667'
   max_longitude: '-62.15'
@@ -6164,14 +6164,14 @@ MW:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: MAW
   un_locode: MW
   languages:
   - en
   - ny
   nationality: Malawian
-  eu_member: 
+  eu_member:
   min_longitude: '32.716667'
   min_latitude: '-17.15'
   max_longitude: '37'
@@ -6207,7 +6207,7 @@ ME:
   - 8
   international_prefix: '99'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MNE
   un_locode: ME
   languages:
@@ -6216,7 +6216,7 @@ ME:
   - sq
   - hr
   nationality: Montenegrin
-  eu_member: 
+  eu_member:
   min_longitude: '18.438056'
   min_latitude: '41.864167'
   max_longitude: '20.3425'
@@ -6265,7 +6265,7 @@ MK:
   languages:
   - mk
   nationality: Macedonian
-  eu_member: 
+  eu_member:
   min_longitude: '20.459167'
   min_latitude: '40.866667'
   max_longitude: '23.033333'
@@ -6300,13 +6300,13 @@ ML:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MLI
   un_locode: ML
   languages:
   - fr
   nationality: Malian
-  eu_member: 
+  eu_member:
   min_longitude: '-12.55'
   min_latitude: '10.15'
   max_longitude: '13'
@@ -6343,13 +6343,13 @@ MC:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MON
   un_locode: MC
   languages:
   - fr
   nationality: Monegasque
-  eu_member: 
+  eu_member:
   min_longitude: '7.4'
   min_latitude: '43.716667'
   max_longitude: '7.439444'
@@ -6388,13 +6388,13 @@ MA:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MAR
   un_locode: MA
   languages:
   - ar
   nationality: Moroccan
-  eu_member: 
+  eu_member:
   min_longitude: '-13.1'
   min_latitude: '5.51'
   max_longitude: '2'
@@ -6431,13 +6431,13 @@ MU:
   - 7
   international_prefix: '020'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: MRI
   un_locode: MU
   languages:
   - en
   nationality: Mauritian
-  eu_member: 
+  eu_member:
   min_longitude: '56.6'
   min_latitude: '-20.516667'
   max_longitude: '72.466667'
@@ -6475,14 +6475,14 @@ MR:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MTN
   un_locode: MR
   languages:
   - ar
   - fr
   nationality: Mauritanian
-  eu_member: 
+  eu_member:
   min_longitude: '-17.079444'
   min_latitude: '14.7382733887'
   max_longitude: '13'
@@ -6518,7 +6518,7 @@ MT:
   - 8
   international_prefix: '00'
   national_prefix: '21'
-  address_format: 
+  address_format:
   ioc: MLT
   un_locode: MT
   languages:
@@ -6572,7 +6572,7 @@ OM:
   languages:
   - ar
   nationality: Omani
-  eu_member: 
+  eu_member:
   min_longitude: '45'
   min_latitude: '16.633333'
   max_longitude: '59.838056'
@@ -6610,13 +6610,13 @@ MV:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: MDV
   un_locode: MV
   languages:
   - dv
   nationality: Maldivan
-  eu_member: 
+  eu_member:
   min_longitude: '72.583333'
   min_latitude: '-0.7'
   max_longitude: '73.7'
@@ -6666,7 +6666,7 @@ MX:
   languages:
   - es
   nationality: Mexican
-  eu_member: 
+  eu_member:
   min_longitude: '-119.921667'
   min_latitude: '14.55'
   max_longitude: '-86.716667'
@@ -6705,13 +6705,13 @@ MY:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MAS
   un_locode: MY
   languages:
   - en
   nationality: Malaysian
-  eu_member: 
+  eu_member:
   min_longitude: '99.641277'
   min_latitude: '0.85'
   max_longitude: '120'
@@ -6748,13 +6748,13 @@ MZ:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: MOZ
   un_locode: MZ
   languages:
   - pt
   nationality: Mozambican
-  eu_member: 
+  eu_member:
   min_longitude: '30.231389'
   min_latitude: '-26.857222'
   max_longitude: '40.845278'
@@ -6793,13 +6793,13 @@ NC:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: NC
   languages:
   - fr
   nationality: New Caledonian
-  eu_member: 
+  eu_member:
   min_longitude: '158.246667'
   min_latitude: '-22.783333'
   max_longitude: '172.05'
@@ -6834,13 +6834,13 @@ NU:
   - 4
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: NU
   languages:
   - en
   nationality: Niuean
-  eu_member: 
+  eu_member:
   min_longitude: '-169.916667'
   min_latitude: '-19.1'
   max_longitude: '-169.783333'
@@ -6879,13 +6879,13 @@ NF:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: NF
   languages:
   - en
   nationality: Norfolk Islander
-  eu_member: 
+  eu_member:
   min_longitude: '167.95'
   min_latitude: '-29.05'
   max_longitude: '167.95'
@@ -6921,13 +6921,13 @@ NE:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: NIG
   un_locode: NE
   languages:
   - fr
   nationality: Nigerian
-  eu_member: 
+  eu_member:
   min_longitude: '0.233333'
   min_latitude: '11.716667'
   max_longitude: '16'
@@ -6964,7 +6964,7 @@ VU:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: VAN
   un_locode: VU
   languages:
@@ -6972,7 +6972,7 @@ VU:
   - en
   - fr
   nationality: Ni-Vanuatu
-  eu_member: 
+  eu_member:
   min_longitude: '166.016667'
   min_latitude: '-20.25'
   max_longitude: '170.216667'
@@ -7010,13 +7010,13 @@ NG:
   - 8
   international_prefix: 009
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: NGR
   un_locode: NG
   languages:
   - en
   nationality: Nigerian
-  eu_member: 
+  eu_member:
   min_longitude: '2.716667'
   min_latitude: '4.266667'
   max_longitude: '14.65'
@@ -7114,7 +7114,7 @@ NL:
   languages:
   - 'no'
   nationality: Norwegian
-  eu_member: 
+  eu_member:
   min_longitude: '3.033333'
   min_latitude: '56.15'
   max_longitude: '31.166667'
@@ -7152,13 +7152,13 @@ NP:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: NEP
   un_locode: NP
   languages:
   - ne
   nationality: Nepalese
-  eu_member: 
+  eu_member:
   min_longitude: '80'
   min_latitude: '26.45'
   max_longitude: '88.183333'
@@ -7193,14 +7193,14 @@ NR:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: NRU
   un_locode: NR
   languages:
   - en
   - na
   nationality: Nauruan
-  eu_member: 
+  eu_member:
   min_longitude: '166.916667'
   min_latitude: '-0.55'
   max_longitude: '166.95'
@@ -7236,13 +7236,13 @@ SR:
   - 6
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: SUR
   un_locode: SR
   languages:
   - nl
   nationality: Surinamer
-  eu_member: 
+  eu_member:
   min_longitude: '-60'
   min_latitude: '2.1'
   max_longitude: '-53.983333'
@@ -7281,14 +7281,14 @@ AN:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: AHO
   un_locode: AN
   languages:
   - nl
   - en
   nationality: Dutch
-  eu_member: 
+  eu_member:
   min_longitude: '-69.166667'
   min_latitude: '12.016667'
   max_longitude: '-62.933333'
@@ -7323,13 +7323,13 @@ NI:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: NCA
   un_locode: NI
   languages:
   - es
   nationality: Nicaraguan
-  eu_member: 
+  eu_member:
   min_longitude: '-87.684167'
   min_latitude: '10.716667'
   max_longitude: '-82.566667'
@@ -7380,7 +7380,7 @@ NZ:
   languages:
   - en
   nationality: New Zealander
-  eu_member: 
+  eu_member:
   min_longitude: '179.066667'
   min_latitude: '-52.616667'
   max_longitude: '-178.9'
@@ -7416,14 +7416,14 @@ PY:
   - 9
   international_prefix: '002'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: PAR
   un_locode: PY
   languages:
   - es
   - gn
   nationality: Paraguayan
-  eu_member: 
+  eu_member:
   min_longitude: '-62.633333'
   min_latitude: '-27.533333'
   max_longitude: '-54.35'
@@ -7458,13 +7458,13 @@ PN:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: PN
   languages:
   - en
   nationality: Pitcairn Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-130.733333'
   min_latitude: '-25.066667'
   max_longitude: '-124.783333'
@@ -7502,13 +7502,13 @@ PE:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: PER
   un_locode: PE
   languages:
   - es
   nationality: Peruvian
-  eu_member: 
+  eu_member:
   min_longitude: '-81.358333'
   min_latitude: '-18.333333'
   max_longitude: '-68.833333'
@@ -7547,13 +7547,13 @@ PG:
   - 7
   international_prefix: '05'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: PNG
   un_locode: PG
   languages:
   - en
   nationality: Papua New Guinean
-  eu_member: 
+  eu_member:
   min_longitude: '120'
   min_latitude: '-11.65'
   max_longitude: '159.483333'
@@ -7590,14 +7590,14 @@ PK:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: PAK
   un_locode: PK
   languages:
   - en
   - ur
   nationality: Pakistani
-  eu_member: 
+  eu_member:
   min_longitude: '60.866667'
   min_latitude: '23.966667'
   max_longitude: '77.800014'
@@ -7682,13 +7682,13 @@ PA:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: PAN
   un_locode: PA
   languages:
   - es
   nationality: Panamanian
-  eu_member: 
+  eu_member:
   min_longitude: '-82.95'
   min_latitude: '7.213333'
   max_longitude: '-77.283333'
@@ -7769,13 +7769,13 @@ PW:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: PLW
   un_locode: PW
   languages:
   - en
   nationality: Palauan
-  eu_member: 
+  eu_member:
   min_longitude: '131.175'
   min_latitude: '2.898333'
   max_longitude: '134.716389'
@@ -7812,13 +7812,13 @@ GW:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: GBS
   un_locode: GW
   languages:
   - pt
   nationality: Guinea-Bissauan
-  eu_member: 
+  eu_member:
   min_longitude: '-16.651944'
   min_latitude: '5'
   max_longitude: '-4'
@@ -7865,7 +7865,7 @@ QA:
   languages:
   - ar
   nationality: Qatari
-  eu_member: 
+  eu_member:
   min_longitude: '50.680556'
   min_latitude: '24.284722'
   max_longitude: '52.75'
@@ -7903,13 +7903,13 @@ RS:
   - 9
   international_prefix: '99'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: SRB
   un_locode: RS
   languages:
   - sr
   nationality: Serbian
-  eu_member: 
+  eu_member:
   min_longitude: '18.928889'
   min_latitude: '41.866667'
   max_longitude: '22.966667'
@@ -7945,13 +7945,13 @@ RE:
   - 10
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: RE
   languages:
   - fr
   nationality: French
-  eu_member: 
+  eu_member:
   min_longitude: '55.216667'
   min_latitude: '-21.366667'
   max_longitude: '57'
@@ -7990,14 +7990,14 @@ MH:
   - 7
   international_prefix: '00'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: MHL
   un_locode: MH
   languages:
   - en
   - mh
   nationality: Marshallese
-  eu_member: 
+  eu_member:
   min_longitude: '160.8'
   min_latitude: '4.566667'
   max_longitude: '172.8'
@@ -8097,7 +8097,7 @@ PH:
   - tl
   - en
   nationality: Filipino
-  eu_member: 
+  eu_member:
   min_longitude: '116.65'
   min_latitude: '4.588889'
   max_longitude: '126.604444'
@@ -8148,7 +8148,7 @@ RU:
   languages:
   - ru
   nationality: Russian
-  eu_member: 
+  eu_member:
   min_longitude: '19.655556'
   min_latitude: '38.7'
   max_longitude: '147.172222'
@@ -8186,7 +8186,7 @@ RW:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: RWA
   un_locode: RW
   languages:
@@ -8194,7 +8194,7 @@ RW:
   - en
   - fr
   nationality: Rwandan
-  eu_member: 
+  eu_member:
   min_longitude: '28.866667'
   min_latitude: '-2.8'
   max_longitude: '37'
@@ -8245,7 +8245,7 @@ SA:
   languages:
   - ar
   nationality: Saudi Arabian
-  eu_member: 
+  eu_member:
   min_longitude: '34.566667'
   min_latitude: '5'
   max_longitude: '55.166667'
@@ -8284,13 +8284,13 @@ PM:
   - 6
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: PM
   languages:
   - fr
   nationality: French
-  eu_member: 
+  eu_member:
   min_longitude: '-56.405278'
   min_latitude: '46.748333'
   max_longitude: '-56.120556'
@@ -8329,13 +8329,13 @@ KN:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: SKN
   un_locode: KN
   languages:
   - en
   nationality: Kittian and Nevisian
-  eu_member: 
+  eu_member:
   min_longitude: '-62.85'
   min_latitude: '17.1'
   max_longitude: '-62.516667'
@@ -8371,14 +8371,14 @@ SC:
   - 6
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SEY
   un_locode: SC
   languages:
   - fr
   - en
   nationality: Seychellois
-  eu_member: 
+  eu_member:
   min_longitude: '46.216667'
   min_latitude: '-10.216667'
   max_longitude: '56.266667'
@@ -8439,7 +8439,7 @@ ZA:
   - xh
   - zu
   nationality: South African
-  eu_member: 
+  eu_member:
   min_longitude: '16.466667'
   min_latitude: '-34.833333'
   max_longitude: '32.883333'
@@ -8475,13 +8475,13 @@ SN:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SEN
   un_locode: SN
   languages:
   - fr
   nationality: Senegalese
-  eu_member: 
+  eu_member:
   min_longitude: '-17.682778'
   min_latitude: '12.336667'
   max_longitude: '-11.3780213874'
@@ -8520,13 +8520,13 @@ SH:
   - 4
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: SH
   languages:
   - en
   nationality: Saint Helenian
-  eu_member: 
+  eu_member:
   min_longitude: '-14.416667'
   min_latitude: '-40.4'
   max_longitude: '-5.633333'
@@ -8611,13 +8611,13 @@ SL:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: SLE
   un_locode: SL
   languages:
   - en
   nationality: Sierra Leonean
-  eu_member: 
+  eu_member:
   min_longitude: '-13.316667'
   min_latitude: '5'
   max_longitude: '-4'
@@ -8656,13 +8656,13 @@ SM:
   - 12
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SMR
   un_locode: SM
   languages:
   - it
   nationality: Sammarinese
-  eu_member: 
+  eu_member:
   min_longitude: '12.416667'
   min_latitude: '43.908333'
   max_longitude: '12.5'
@@ -8713,7 +8713,7 @@ SG:
   - ms
   - ta
   nationality: Singaporean
-  eu_member: 
+  eu_member:
   min_longitude: '102'
   min_latitude: '1.159444'
   max_longitude: '104.4075'
@@ -8751,14 +8751,14 @@ SO:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SOM
   un_locode: SO
   languages:
   - so
   - ar
   nationality: Somali
-  eu_member: 
+  eu_member:
   min_longitude: '41'
   min_latitude: '-1.6594296959'
   max_longitude: '51.4'
@@ -8845,13 +8845,13 @@ LC:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: LCA
   un_locode: LC
   languages:
   - en
   nationality: Saint Lucian
-  eu_member: 
+  eu_member:
   min_longitude: '-61.066667'
   min_latitude: '13.7'
   max_longitude: '-60.866667'
@@ -8890,14 +8890,14 @@ SD:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: SUD
   un_locode: SD
   languages:
   - ar
   - en
   nationality: Sudanese
-  eu_member: 
+  eu_member:
   min_longitude: '21.883333'
   min_latitude: '3.516667'
   max_longitude: '38.833333'
@@ -8982,13 +8982,13 @@ GS:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: GS
   languages:
   - en
   nationality: South Georgia and the South Sandwich Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-38.305'
   min_latitude: '-59.466667'
   max_longitude: '-26.333333'
@@ -9039,7 +9039,7 @@ SY:
   languages:
   - ar
   nationality: Syrian
-  eu_member: 
+  eu_member:
   min_longitude: '35.6'
   min_latitude: '32'
   max_longitude: '42.337778'
@@ -9091,7 +9091,7 @@ CH:
   - fr
   - it
   nationality: Swiss
-  eu_member: 
+  eu_member:
   min_longitude: '6'
   min_latitude: '45.366667'
   max_longitude: '10.5'
@@ -9131,13 +9131,13 @@ TT:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: TRI
   un_locode: TT
   languages:
   - en
   nationality: Trinidadian
-  eu_member: 
+  eu_member:
   min_longitude: '-74'
   min_latitude: '10.033333'
   max_longitude: '-60.5'
@@ -9176,13 +9176,13 @@ TH:
   - 10
   international_prefix: '001'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: THA
   un_locode: TH
   languages:
   - th
   nationality: Thai
-  eu_member: 
+  eu_member:
   min_longitude: '97.366667'
   min_latitude: '5.616667'
   max_longitude: '105.766667'
@@ -9221,14 +9221,14 @@ TJ:
   - 9
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: TJK
   un_locode: TJ
   languages:
   - tg
   - ru
   nationality: Tadzhik
-  eu_member: 
+  eu_member:
   min_longitude: '67.416667'
   min_latitude: '36.716667'
   max_longitude: '75'
@@ -9267,13 +9267,13 @@ TC:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: TC
   languages:
   - en
   nationality: Turks and Caicos Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-72.466667'
   min_latitude: '21.116667'
   max_longitude: '-71.083333'
@@ -9310,13 +9310,13 @@ TK:
   - 4
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: TK
   languages:
   - en
   nationality: Tokelauan
-  eu_member: 
+  eu_member:
   min_longitude: '-172.516667'
   min_latitude: '-9.433333'
   max_longitude: '-171.183333'
@@ -9354,14 +9354,14 @@ TO:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: TGA
   un_locode: TO
   languages:
   - en
   - to
   nationality: Tongan
-  eu_member: 
+  eu_member:
   min_longitude: '-176.2'
   min_latitude: '-22.333333'
   max_longitude: '-150'
@@ -9397,13 +9397,13 @@ TG:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: TOG
   un_locode: TG
   languages:
   - fr
   nationality: Togolese
-  eu_member: 
+  eu_member:
   min_longitude: '-4'
   min_latitude: '6.131944'
   max_longitude: '1.816667'
@@ -9443,13 +9443,13 @@ ST:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: STP
   un_locode: ST
   languages:
   - pt
   nationality: Sao Tomean
-  eu_member: 
+  eu_member:
   min_longitude: '6.466667'
   min_latitude: '-0.016667'
   max_longitude: '7.483333'
@@ -9489,14 +9489,14 @@ TN:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: TUN
   un_locode: TN
   languages:
   - ar
   - fr
   nationality: Tunisian
-  eu_member: 
+  eu_member:
   min_longitude: '7'
   min_latitude: '26'
   max_longitude: '13'
@@ -9535,13 +9535,13 @@ TL:
   - 7
   international_prefix: None
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: TLS
-  un_locode: 
+  un_locode:
   languages:
   - pt
   nationality: East Timorese
-  eu_member: 
+  eu_member:
   min_longitude: '124.085556'
   min_latitude: '-9.469722'
   max_longitude: '127.336667'
@@ -9591,7 +9591,7 @@ TR:
   languages:
   - tr
   nationality: Turkish
-  eu_member: 
+  eu_member:
   min_longitude: '25'
   min_latitude: '35.819444'
   max_longitude: '44.8'
@@ -9626,13 +9626,13 @@ TV:
   - 5
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: TUV
   un_locode: TV
   languages:
   - en
   nationality: Tuvaluan
-  eu_member: 
+  eu_member:
   min_longitude: '176.116667'
   min_latitude: '-10.75'
   max_longitude: '179.883333'
@@ -9680,7 +9680,7 @@ TW:
   languages:
   - zh
   nationality: Taiwanese
-  eu_member: 
+  eu_member:
   min_longitude: '118.1152555661'
   min_latitude: '21.733333'
   max_longitude: '122.107778'
@@ -9718,14 +9718,14 @@ TM:
   - 8
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: TKM
   un_locode: TM
   languages:
   - tk
   - ru
   nationality: Turkmen
-  eu_member: 
+  eu_member:
   min_longitude: '52.5'
   min_latitude: '35.216667'
   max_longitude: '66.65'
@@ -9763,14 +9763,14 @@ TZ:
   - 9
   international_prefix: '000'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: TAN
   un_locode: TZ
   languages:
   - sw
   - en
   nationality: Tanzanian
-  eu_member: 
+  eu_member:
   min_longitude: '29.583333'
   min_latitude: '-11.7'
   max_longitude: '40.433333'
@@ -9806,14 +9806,14 @@ UG:
   - 9
   international_prefix: '000'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: UGA
   un_locode: UG
   languages:
   - en
   - sw
   nationality: Ugandan
-  eu_member: 
+  eu_member:
   min_longitude: '29.583333'
   min_latitude: '-1.433333'
   max_longitude: '34.95'
@@ -9862,7 +9862,7 @@ GB:
     {{postalcode}}
     {{country}}
   ioc: GBR
-  un_locode: 
+  un_locode:
   languages:
   - en
   nationality: British
@@ -9918,7 +9918,7 @@ UA:
   languages:
   - uk
   nationality: Ukrainian
-  eu_member: 
+  eu_member:
   min_longitude: '20.933333'
   min_latitude: '37.8'
   max_longitude: '68.85'
@@ -9968,11 +9968,11 @@ US:
   languages:
   - en
   nationality: American
-  eu_member: 
-  min_longitude: '167.740111'
-  min_latitude: '8.731796'
-  max_longitude: '167.740111'
-  max_latitude: '8.731796'
+  eu_member:
+  min_longitude: '-179.231086'
+  min_latitude: '17.831509'
+  max_longitude: '-66.885417'
+  max_latitude: '71.441059'
 BF:
   number: '854'
   alpha2: BF
@@ -10003,14 +10003,14 @@ BF:
   - 8
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: BUR
   un_locode: BF
   languages:
   - fr
   - ff
   nationality: Burkinabe
-  eu_member: 
+  eu_member:
   min_longitude: '-5.466667'
   min_latitude: '9.45'
   max_longitude: '2.2655'
@@ -10047,13 +10047,13 @@ UY:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: URU
   un_locode: UY
   languages:
   - es
   nationality: Uruguayan
-  eu_member: 
+  eu_member:
   min_longitude: '-58.5'
   min_latitude: '-35.033333'
   max_longitude: '-53.266667'
@@ -10093,14 +10093,14 @@ UZ:
   - 9
   international_prefix: '810'
   national_prefix: '8'
-  address_format: 
+  address_format:
   ioc: UZB
   un_locode: UZ
   languages:
   - uz
   - ru
   nationality: Uzbekistani
-  eu_member: 
+  eu_member:
   min_longitude: '56.083333'
   min_latitude: '35.266667'
   max_longitude: '80.383333'
@@ -10139,13 +10139,13 @@ VC:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: VIN
   un_locode: VC
   languages:
   - en
   nationality: Saint Vincentian
-  eu_member: 
+  eu_member:
   min_longitude: '-61.433333'
   min_latitude: '12.533333'
   max_longitude: '-61.116667'
@@ -10180,13 +10180,13 @@ VE:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: VEN
   un_locode: VE
   languages:
   - es
   nationality: Venezuelan
-  eu_member: 
+  eu_member:
   min_longitude: '-73.16'
   min_latitude: '0.766667'
   max_longitude: '-59.966667'
@@ -10225,13 +10225,13 @@ VG:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: IVB
   un_locode: VG
   languages:
   - en
   nationality: Virgin Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-64.85'
   min_latitude: '18.3'
   max_longitude: '-64.266667'
@@ -10269,13 +10269,13 @@ VN:
   - 10
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: VIE
   un_locode: VN
   languages:
   - vi
   nationality: Vietnamese
-  eu_member: 
+  eu_member:
   min_longitude: '102.216667'
   min_latitude: '8.383333'
   max_longitude: '109.466667'
@@ -10315,14 +10315,14 @@ VA:
   - 9
   international_prefix: '00'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: VA
   languages:
   - it
   - la
   nationality: Italian
-  eu_member: 
+  eu_member:
   min_longitude: '12.45'
   min_latitude: '41.9'
   max_longitude: '12.45'
@@ -10360,14 +10360,14 @@ NA:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: NAM
   un_locode: NA
   languages:
   - en
   - af
   nationality: Namibian
-  eu_member: 
+  eu_member:
   min_longitude: '12.016667'
   min_latitude: '-28.933333'
   max_longitude: '25.25'
@@ -10406,13 +10406,13 @@ WF:
   - 6
   international_prefix: '19'
   national_prefix: None
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: WF
   languages:
   - fr
   nationality: Wallis and Futuna Islander
-  eu_member: 
+  eu_member:
   min_longitude: '-178.183333'
   min_latitude: '-14.35'
   max_longitude: '-176.083333'
@@ -10448,14 +10448,14 @@ EH:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: EH
   languages:
   - es
   - fr
   nationality: Sahrawi
-  eu_member: 
+  eu_member:
   min_longitude: '-17.110556'
   min_latitude: '20.8'
   max_longitude: '-8.666667'
@@ -10491,14 +10491,14 @@ WS:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SAM
   un_locode: WS
   languages:
   - sm
   - en
   nationality: Samoan
-  eu_member: 
+  eu_member:
   min_longitude: '-172.816667'
   min_latitude: '-14.05'
   max_longitude: '-171'
@@ -10535,14 +10535,14 @@ SZ:
   - 7
   international_prefix: '00'
   national_prefix: None
-  address_format: 
+  address_format:
   ioc: SWZ
   un_locode: SZ
   languages:
   - en
   - ss
   nationality: Swazi
-  eu_member: 
+  eu_member:
   min_longitude: '30.783333'
   min_latitude: '-27.316667'
   max_longitude: '32.133333'
@@ -10591,7 +10591,7 @@ YE:
   languages:
   - ar
   nationality: Yemeni
-  eu_member: 
+  eu_member:
   min_longitude: '41.833333'
   min_latitude: '12.1'
   max_longitude: '54.533333'
@@ -10629,13 +10629,13 @@ ZM:
   - 9
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ZAM
   un_locode: ZM
   languages:
   - en
   nationality: Zambian
-  eu_member: 
+  eu_member:
   min_longitude: '22'
   min_latitude: '-18.05'
   max_longitude: '39.283333'
@@ -10676,7 +10676,7 @@ ZW:
   - 11
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: ZIM
   un_locode: ZW
   languages:
@@ -10684,7 +10684,7 @@ ZW:
   - sn
   - nd
   nationality: Zimbabwean
-  eu_member: 
+  eu_member:
   min_longitude: '25.333333'
   min_latitude: '-22.316667'
   max_longitude: '33.05'
@@ -10720,16 +10720,16 @@ AQ:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: AQ
   languages: []
   nationality: ''
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 AS:
   number: '016'
   alpha2: AS
@@ -10764,18 +10764,18 @@ AS:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: ASA
   un_locode: AS
   languages:
   - en
   - sm
   nationality: American Samoan
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 AX:
   number: '248'
   alpha2: AX
@@ -10792,7 +10792,7 @@ AX:
     it: Isole Aland
     de: Åland
     fr: Aland
-    es: 
+    es:
     ja: オーランド諸島
     nl: Ålandeilanden
     ru: Аландские острова
@@ -10806,17 +10806,17 @@ AX:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - sv
   nationality: Swedish
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 BL:
   number: '652'
   alpha2: BL
@@ -10832,7 +10832,7 @@ BL:
     it: Antille Francesi
     de: Saint-Barthélemy
     fr: Saint-Barthélemy
-    es: 
+    es:
     ja: サン・バルテルミー
     nl: Saint Barthélemy
     ru: Сен-Бартельми
@@ -10846,17 +10846,17 @@ BL:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - fr
   nationality: Saint Barthélemy Islander
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 BQ:
   number: '535'
   alpha2: BQ
@@ -10886,18 +10886,18 @@ BQ:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: BQ
   languages:
   - nl
   - en
   nationality: Dutch
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 CW:
   number: '531'
   alpha2: CW
@@ -10926,17 +10926,17 @@ CW:
   - 7
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: CW
   languages:
   - nl
   nationality: Dutch
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 GU:
   number: '316'
   alpha2: GU
@@ -10967,7 +10967,7 @@ GU:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: GUM
   un_locode: GU
   languages:
@@ -10975,11 +10975,11 @@ GU:
   - ch
   - es
   nationality: Guamanian
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 MF:
   number: '663'
   alpha2: MF
@@ -11009,19 +11009,19 @@ MF:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - en
   - fr
   - nl
   nationality: Saint Martin Islander
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 MP:
   number: '580'
   alpha2: MP
@@ -11056,18 +11056,18 @@ MP:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: MP
   languages:
   - en
   - ch
   nationality: American
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 PR:
   number: '630'
   alpha2: PR
@@ -11099,18 +11099,18 @@ PR:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: PUR
   un_locode: PR
   languages:
   - es
   - en
   nationality: Puerto Rican
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 PS:
   number: '275'
   alpha2: PS
@@ -11146,19 +11146,19 @@ PS:
   - 8
   international_prefix: '00'
   national_prefix: '0'
-  address_format: 
+  address_format:
   ioc: PLE
-  un_locode: 
+  un_locode:
   languages:
   - ar
   - he
   - en
   nationality: Palestinian
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 SS:
   number: '728'
   alpha2: SS
@@ -11192,18 +11192,18 @@ SS:
   - 9
   international_prefix: '0'
   national_prefix: '0'
-  address_format: 
-  ioc: 
-  un_locode: 
+  address_format:
+  ioc:
+  un_locode:
   languages:
   - ar
   - en
   nationality: South Sudanese
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 SX:
   number: '534'
   alpha2: SX
@@ -11231,18 +11231,18 @@ SX:
   - 10
   international_prefix: '011'
   national_prefix: '0'
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: SX
   languages:
   - nl
   - en
   nationality: Dutch
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 UM:
   number: '581'
   alpha2: UM
@@ -11275,17 +11275,17 @@ UM:
   national_number_lengths: []
   international_prefix: ''
   national_prefix: ''
-  address_format: 
-  ioc: 
+  address_format:
+  ioc:
   un_locode: UM
   languages:
   - en
   nationality: American
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
 VI:
   number: '850'
   alpha2: VI
@@ -11320,14 +11320,14 @@ VI:
   - 10
   international_prefix: '011'
   national_prefix: '1'
-  address_format: 
+  address_format:
   ioc: ISV
   un_locode: VI
   languages:
   - en
   nationality: Virgin Islander
-  eu_member: 
-  min_longitude: 
-  min_latitude: 
-  max_longitude: 
-  max_latitude: 
+  eu_member:
+  min_longitude:
+  min_latitude:
+  max_longitude:
+  max_latitude:
